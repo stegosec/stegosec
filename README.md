@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../brand_logo.png" width="140" alt="StegoSec logo"><br>
+  <img src="../../brand_logo.png" width="140" alt="StegoSec logo"><br>
   <h1>StegoSec</h1>
   <p><em>Protección digital con enfoque técnico y estratégico.</em></p>
   <a href="https://github.com/stegosec"><img alt="GitHub followers" src="https://img.shields.io/github/followers/stegosec?label=Follow&style=for-the-badge"></a>
