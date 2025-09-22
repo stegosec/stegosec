@@ -37,7 +37,7 @@
 
 - 👁️ **DinoEye** → Threat Intel & Attack Surface Monitoring  
 
-- ⚡ **RaptorRecon** → reconocimiento de IP privadas, puertos y servicios  
+- 🦖 **RaptorRecon** → reconocimiento de IP privadas, puertos y servicios  
 
 ---
 
