@@ -14,8 +14,7 @@
   <br/><br/>
   <!-- CTAs -->
   <a href="https://github.com/stegosec"><b>GitHub</b></a> ·
-  <a href="mailto:contacto@stegosec.dev">contacto@stegosec.dev</a> ·
-  <a href="https://calendly.com/TODO/30min">Agenda una llamada</a>
+  <a href="mailto:contacto@stegosec.com">contacto@stegosec.dev</a> ·
 </div>
 
 ---
