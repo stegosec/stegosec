@@ -15,9 +15,9 @@
 
 ## Bienvenido
 
-StegoSec es una iniciativa enfocada en **CTI**, **hardening** y **automatización de seguridad**, con demos y herramientas prácticas para equipos técnicos.  
-Este es el repositorio principal de la organización, donde centralizamos enlaces, guías y roadmap.
+StegoSec es una **empresa de ciberseguridad** especializada en **CTI**, **hardening** y **automatización de seguridad**. Desarrollamos productos (open-source y comerciales) y herramientas prácticas para equipos técnicos, con enfoque técnico y estratégico.
 
+Este es el repositorio principal de la empresa, donde centralizamos enlaces a proyectos, documentación y el **roadmap público**.
 ---
 
 ## 🌋 JurassicSec Suite (ecosistema StegoSec)
