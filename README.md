@@ -44,7 +44,7 @@
 ## 🛣️ Roadmap (en evolución)
 
 - ✅ **TriceraAudit Lite** – ya disponible  
-- 🚀 **DinoEye** – monitorización de superficie de ataque y CTI  
+- 👁️ **DinoEye** – monitorización de superficie de ataque y CTI  
 - 🦖 **RaptorRecon** – descubrimiento de IPs, puertos y servicios expuestos  
 - 🎯 **TriceraAudit Pro** – versión modular multi-vendor, API y reportes firmados  
 
