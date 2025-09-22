@@ -1,38 +1,45 @@
+<!-- HERO -->
 <div align="center">
-  <img src="brand_logo.png" width="140" alt="StegoSec logo"/><br/>
-  <h1>StegoSec</h1>
+  <img src="brand_logo.png" width="160" alt="StegoSec logo"/><br/>
+  <h1>🦖 StegoSec</h1>
   <p><em>Protección digital con enfoque técnico y estratégico.</em></p>
 
   <!-- Badges -->
-  <img alt="CTI" src="...">
-  <img alt="Pentesting" src="...">
-  <img alt="Vuln Mgmt" src="...">
-  <img alt="Automation" src="...">
+  <p>
+    <img alt="CTI" src="https://img.shields.io/badge/CTI-Threat%20Intel-111827?labelColor=0f172a&logo=protonvpn&logoColor=white&style=for-the-badge">
+    <img alt="Pentesting" src="https://img.shields.io/badge/Pentesting-Offensive-111827?labelColor=0f172a&logo=apachekylin&logoColor=white&style=for-the-badge">
+    <img alt="Vuln Mgmt" src="https://img.shields.io/badge/Vuln%20Mgmt-Prioritization-111827?labelColor=0f172a&logo=datadog&logoColor=white&style=for-the-badge">
+    <img alt="Automation" src="https://img.shields.io/badge/Automation-DevSecOps-111827?labelColor=0f172a&logo=githubactions&logoColor=white&style=for-the-badge">
+  </p>
 
-  <br/><br/>
-  <a href="https://stegosec.com"><b>🌐 Visita nuestra web</b></a>
+  <a href="https://stegosec.com">
+    <img src="https://img.shields.io/badge/🌐-Visita%20nuestra%20web-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 </div>
 
 ---
 
 ## 🚀 Qué hacemos
-- Pentesting & Vulnerability Management  
-- Threat Intel / Attack Surface Reduction  
-- Automatización & DevSecOps  
+
+- 🔓 **Pentesting & Vulnerability Management**  
+- 🛰️ **Threat Intel / Attack Surface Reduction**  
+- ⚙️ **Automatización & DevSecOps**
 
 ---
 
 ## 🦖 JurassicSec Suite
-- **TriceraAudit Lite** → auditoría de `.conf` Fortinet  
-  👉 [Repo aquí](https://github.com/stegosec/Tricera-lite)  
-- **TriceraAudit Pro** → multi-vendor, API, reportes firmados  
-  📌 [Roadmap público](#)
+
+- 🟢 **TriceraAudit Lite** → auditoría de `.conf` Fortinet  
+  👉 [**Repo aquí**](https://github.com/stegosec/Tricera-lite)  
+
+- 🔴 **TriceraAudit Pro** → multi-vendor, API, reportes firmados  
+  📌 [**Roadmap público**](#)
 
 ---
 
-## ⏱️ Empieza en 1 minuto
+## ⚡ Empieza en 1 minuto
+
 ```bash
 git clone https://github.com/stegosec/Tricera-lite.git
 cd Tricera-lite
 docker compose up -d
-
