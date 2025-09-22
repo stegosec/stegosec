@@ -33,7 +33,23 @@
   👉 [**Repo aquí**](https://github.com/stegosec/Tricera-lite)  
 
 - 🔴 **TriceraAudit Pro** → multi-vendor, API, reportes firmados  
-  📌 [**Roadmap público**](#)
+  📌 [**Roadmap público**](#)  
+
+- 👁️ **DinoEye** → Threat Intel & Attack Surface Monitoring  
+
+- ⚡ **RaptorRecon** → reconocimiento de IP privadas, puertos y servicios  
+
+---
+
+## 🛣️ Roadmap (en evolución)
+
+- ✅ **TriceraAudit Lite** – ya disponible  
+- 🚀 **DinoEye** – monitorización de superficie de ataque y CTI  
+- 🦖 **RaptorRecon** – descubrimiento de IPs, puertos y servicios expuestos  
+- 🎯 **TriceraAudit Pro** – versión modular multi-vendor, API y reportes firmados  
+
+> 🚀 Roadmap abierto y guiado por la comunidad  
+> 💬 Participa en [**discussions**](#) o sugiere features en [**issues**](#)
 
 ---
 
