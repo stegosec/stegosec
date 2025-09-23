@@ -1,7 +1,7 @@
 <!-- HERO -->
 <div align="center">
-  <img src="brand_logo.png" width="160" alt="StegoSec logo"/><br/>
-  <h1>🦖 StegoSec</h1>
+  <img src="brand_logo.gif" width="220" alt="StegoSec animated logo"/><br/>
+  <h1>🦖 <StegoSec></h1>
   <p><em>Protección digital con enfoque técnico y estratégico.</em></p>
 
   <!-- Badges -->
