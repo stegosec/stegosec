@@ -1,6 +1,6 @@
 <div align="center">
 
-# <h2> Stego Sec</h2>
+# <h1> Stego Sec</h1>
 ### Protección digital con enfoque técnico y estratégico.
 
 [![Web](https://img.shields.io/badge/Visita_nuestra-Web-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stegosec.com)
