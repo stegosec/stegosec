@@ -30,7 +30,7 @@ Nuestras herramientas internas y de código abierto, diseñadas para dominar y a
 | Herramienta | Estado | Descripción | Enlaces |
 | :--- | :---: | :--- | :--- |
 | **🟢 TriceraAudit Lite** | Activo | Auditoría rápida de archivos `.conf` de Fortinet. | [Repo aquí](ENLACE) |
-| **🔴 TriceraAudit Pro** | Dev | Soporte multi-vendor, integración API y reportes firmados. | [Roadmap](ENLACE) |
+| **🔴 TriceraAudit Pro** | Dev | Soporte multi-vendor, integración API y reportes firmados. | [Roadmap]() |
 | **👁️ DinoEye** | Dev | Monitoreo de superficie de ataque (ASM) y Threat Intel. | Privado |
 | **🦅 RaptorRecon** | Beta | Reconocimiento veloz de IPs privadas, puertos y servicios. | Próximamente |
 
@@ -40,8 +40,8 @@ Nuestras herramientas internas y de código abierto, diseñadas para dominar y a
 
 La seguridad ofensiva requiere afilar el hacha todos los días. En esta sección documentamos nuestras resoluciones de máquinas y laboratorios, compartiendo metodologías, vectores de ataque y escaladas de privilegios.
 
-* 📖 **[stegosec-writeups](ENLACE_A_TU_NUEVO_REPO):** Nuestro repositorio central con las resoluciones detalladas paso a paso de máquinas de Hack The Box, VulnHub y más (como la reciente resolución de *Kobold*).
-* 🎥 **[Laboratorios en Video](ENLACE_A_YOUTUBE_O_TIKTOK):** Demostraciones prácticas y pruebas de concepto (PoC) sobre vulnerabilidades específicas, como inyecciones SQL (SQLi) y evasión de filtros.
+* 📖 **[stegosec-writeups](https://github.com/stegosec/StegoSec-Writeups):** Nuestro repositorio central con las resoluciones detalladas paso a paso de máquinas de Hack The Box, VulnHub y más (como la reciente resolución de *Kobold*).
+* 🎥 **[Laboratorios en Video](https://youtube.com/@stegosec?si=Fp_yiu58GapM7ept):** Demostraciones prácticas y pruebas de concepto (PoC) sobre vulnerabilidades específicas, como inyecciones SQL (SQLi) y evasión de filtros.
 
 ---
 
@@ -49,7 +49,7 @@ La seguridad ofensiva requiere afilar el hacha todos los días. En esta sección
 
 No solo auditamos, también analizamos. Compartimos nuestra perspectiva sobre el panorama actual de las ciberamenazas.
 
-* 📑 **[The Breach Dossier](ENLACE_AL_NEWSLETTER):** Nuestro boletín oficial en LinkedIn. Publicamos análisis técnicos de brechas de seguridad, nuevas vulnerabilidades y estrategias de mitigación. *(¡Nuevas publicaciones por las noches!)*
+* 📑 **[The Breach Dossier](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432487879249104896):** Nuestro boletín oficial en LinkedIn. Publicamos análisis técnicos de brechas de seguridad, nuevas vulnerabilidades y estrategias de mitigación. *(¡Nuevas publicaciones por las noches!)*
 * 🔬 **Research Público:** [Próximamente publicaremos investigaciones sobre tácticas avanzadas y análisis de malware].
 
 ---
@@ -63,7 +63,7 @@ Seguimos construyendo. El roadmap de nuestro ecosistema está abierto y guiado p
 - [ ] **DinoEye:** Desarrollo del motor de escaneo continuo.
 - [ ] **TriceraAudit Pro:** Arquitectura modular y generación de PDF.
 
-💬 *¿Tienes ideas? Participa en las [Discussions](ENLACE) o sugiere features en los [Issues](ENLACE).*
+💬 *¿Tienes ideas? Participa en las Discussions
 
 ---
 
@@ -75,3 +75,4 @@ Prueba **TriceraAudit Lite** ahora mismo levantando el entorno con Docker:
 git clone [https://github.com/stegosec/Tricera-lite.git](https://github.com/stegosec/Tricera-lite.git)
 cd Tricera-lite
 docker compose up -d
+```
