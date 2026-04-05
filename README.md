@@ -4,8 +4,8 @@
 ### Protección digital con enfoque técnico y estratégico.
 
 [![Web](https://img.shields.io/badge/Visita_nuestra-Web-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stegosec.com)
-[![LinkedIn](https://img.shields.io/badge/Síguenos_en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ENLACE_A_TU_LINKEDIN)
-[![Newsletter](https://img.shields.io/badge/The_Breach-Dossier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ENLACE_AL_NEWSLETTER)
+[![LinkedIn](https://img.shields.io/badge/Síguenos_en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/stegosec)
+[![Newsletter](https://img.shields.io/badge/The_Breach-Dossier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432487879249104896)
 
 `🛡️ PENTESTING` `🎯 OFFENSIVE SECURITY` `🔍 THREAT INTEL` `⚙️ VULN MGMT` `🤖 AUTOMATION`
 
