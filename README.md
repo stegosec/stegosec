@@ -32,7 +32,6 @@ Nuestras herramientas internas y de código abierto, diseñadas para dominar y a
 | :--- | :---: | :--- | :--- |
 | **🟢 TriceraAudit Lite** | Activo | Auditoría rápida de archivos `.conf` de Fortinet. | [Repo aquí](https://github.com/stegosec/Tricera-lite) |
 | **🔴 TriceraAudit Pro** | Dev | Soporte multi-vendor, integración API y reportes firmados. | Privado |
-| **👁️ DinoEye** | Dev | Monitoreo de superficie de ataque (ASM) y Threat Intel. | Privado |
 | **🦅 RaptorRecon** | Beta | Reconocimiento veloz de IPs privadas, puertos y servicios. | Próximamente |
 
 ---
