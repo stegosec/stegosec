@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="brand_logo.gif" width="150" alt="StegoSec Logo">
+# <h2> Stego Sec</h2>
 ### Protección digital con enfoque técnico y estratégico.
 
 [![Web](https://img.shields.io/badge/Visita_nuestra-Web-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stegosec.com)
