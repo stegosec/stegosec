@@ -5,8 +5,9 @@
 
 [![Web](https://img.shields.io/badge/Visita_nuestra-Web-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stegosec.com)
 [![LinkedIn](https://img.shields.io/badge/Síguenos_en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ENLACE_A_TU_LINKEDIN)
+[![Newsletter](https://img.shields.io/badge/The_Breach-Dossier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ENLACE_AL_NEWSLETTER)
 
-`🛡️ PENTESTING` `🎯 OFFENSIVE SECURITY` `🔍 THREAT INTEL` `⚙️ VULN MGMT` `🤖 AUTOMATION` `♾️ DEVSECOPS`
+`🛡️ PENTESTING` `🎯 OFFENSIVE SECURITY` `🔍 THREAT INTEL` `⚙️ VULN MGMT` `🤖 AUTOMATION`
 
 ---
 
@@ -14,17 +15,17 @@
 
 ## 🚀 Qué hacemos
 
-Nuestra filosofía se basa en la **evolución constante**. Adaptamos las estrategias de seguridad para ir un paso por delante de las amenazas:
+Nuestra filosofía se basa en la **evolución constante**. Adaptamos las estrategias de seguridad para ir un paso por delante de las amenazas, combinando auditorías técnicas profundas con el desarrollo de herramientas propias:
 
 * **Pentesting & Vulnerability Management:** Identificación, explotación y remediación priorizada.
-* **Threat Intel / Attack Surface Reduction:** Monitoreo y reducción activa de exposición en internet.
+* **Threat Intel & Attack Surface Reduction:** Monitoreo y reducción activa de exposición en internet.
 * **Automatización & DevSecOps:** Integración de seguridad en el ciclo de vida del desarrollo.
 
 ---
 
-## 🦕 JurassicSec Suite
+## 🦖 JurassicSec Suite (Nuestras Herramientas)
 
-Nuestras herramientas internas y de código abierto, diseñadas para dominar el ecosistema de la ciberseguridad.
+Nuestras herramientas internas y de código abierto, diseñadas para dominar y automatizar el ecosistema de la ciberseguridad.
 
 | Herramienta | Estado | Descripción | Enlaces |
 | :--- | :---: | :--- | :--- |
@@ -35,13 +36,31 @@ Nuestras herramientas internas y de código abierto, diseñadas para dominar el 
 
 ---
 
+## 🏴‍☠️ Laboratorios y Writeups
+
+La seguridad ofensiva requiere afilar el hacha todos los días. En esta sección documentamos nuestras resoluciones de máquinas y laboratorios, compartiendo metodologías, vectores de ataque y escaladas de privilegios.
+
+* 📖 **[stegosec-writeups](ENLACE_A_TU_NUEVO_REPO):** Nuestro repositorio central con las resoluciones detalladas paso a paso de máquinas de Hack The Box, VulnHub y más (como la reciente resolución de *Kobold*).
+* 🎥 **[Laboratorios en Video](ENLACE_A_YOUTUBE_O_TIKTOK):** Demostraciones prácticas y pruebas de concepto (PoC) sobre vulnerabilidades específicas, como inyecciones SQL (SQLi) y evasión de filtros.
+
+---
+
+## 📰 Investigaciones y Threat Intel
+
+No solo auditamos, también analizamos. Compartimos nuestra perspectiva sobre el panorama actual de las ciberamenazas.
+
+* 📑 **[The Breach Dossier](ENLACE_AL_NEWSLETTER):** Nuestro boletín oficial en LinkedIn. Publicamos análisis técnicos de brechas de seguridad, nuevas vulnerabilidades y estrategias de mitigación. *(¡Nuevas publicaciones por las noches!)*
+* 🔬 **Research Público:** [Próximamente publicaremos investigaciones sobre tácticas avanzadas y análisis de malware].
+
+---
+
 ## 🗺️ Roadmap (En Evolución)
 
-Seguimos construyendo y mejorando nuestras herramientas. El roadmap está abierto y guiado por la comunidad:
+Seguimos construyendo. El roadmap de nuestro ecosistema está abierto y guiado por la comunidad:
 
 - [x] **TriceraAudit Lite:** Lanzamiento oficial y disponible para uso.
+- [ ] **StegoSec Writeups:** Documentar y subir los primeros 5 laboratorios de HTB.
 - [ ] **DinoEye:** Desarrollo del motor de escaneo continuo.
-- [ ] **RaptorRecon:** Fase de pruebas en entornos controlados.
 - [ ] **TriceraAudit Pro:** Arquitectura modular y generación de PDF.
 
 💬 *¿Tienes ideas? Participa en las [Discussions](ENLACE) o sugiere features en los [Issues](ENLACE).*
